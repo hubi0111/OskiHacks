@@ -22,7 +22,7 @@
 }
 
 body {
-  background-color: #F5699C;
+  background-color: #154360;
 }
 
 section {
@@ -44,12 +44,9 @@ section {
   z-index: 10000;
 }
 
-/* 
- * Hero Section
- */
-
 .hero {
-  background-color: #F5699C;
+  color: #fff;
+  background-color: #154360;
   min-height: 110vh;
 }
 
@@ -217,7 +214,7 @@ section {
  */
 
 .footer {
-  background-color: #F5699C;
+  background-color: #154360;
   color: #fff;
   padding: 30px 0;
 }
